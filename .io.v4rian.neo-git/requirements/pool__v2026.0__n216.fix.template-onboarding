@@ -1,0 +1,1 @@
+Audit high 14: a repo created from the template can reach connected mode and run bin/bootstrap-ci as README Option A says; every bin --help works in any mode
